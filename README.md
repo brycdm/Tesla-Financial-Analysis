@@ -13,6 +13,7 @@ Interact with the Tableau Dashboard: Offers a visual representation of Tesla's f
 Review the KPI Summary: Highlights key metrics like CAGR and growth rates.
 
 ## Repository Contents
+Tesla_Yahoo_Finance_Data.p: Contains code for formatting and cleaning financial data.
 Tesla_Financial_Summary.xlsx: The main data file containing historical data, calculations, and forecasted figures.
 Tesla_Financial_Forecasting_Dashboard.twbx: The Tableau workbook with visualizations.
 Project_Summary_Document.pdf: A Google Doc summarizing the project goals, forecasting methods, and KPI findings.
