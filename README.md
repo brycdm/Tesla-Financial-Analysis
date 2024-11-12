@@ -7,7 +7,6 @@ Python: For data formatting and initial cleaning.
 Excel: For calculations, data organization, and forecasting formula applications.
 Tableau: For creating a visual dashboard that displays historical and forecasted data trends.
 
-
 ## To explore the project, you can:
 View the Excel Workbook: Contains the raw data, calculations, and forecasted figures.
 Interact with the Tableau Dashboard: Offers a visual representation of Tesla's financial forecasts.
