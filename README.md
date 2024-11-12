@@ -2,7 +2,7 @@
 
 This project analyzes and forecasts Tesla’s financial performance over the next few years. By examining historical data and applying growth models, we project key metrics such as Total Revenue, Operating Income, and Free Cash Flow (FCF) to understand potential future growth. This project includes a dashboard built in Tableau and a supporting Excel workbook.
 
-##Tools Used:
+## Tools Used:
 Python: For data formatting and initial cleaning.
 Excel: For calculations, data organization, and forecasting formula applications.
 Tableau: For creating a visual dashboard that displays historical and forecasted data trends.
